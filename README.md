@@ -1,2 +1,3 @@
-# guess-my-number
-js dom learning simple project ! 
+# Guess My Number Project
+
+Simple JS DOM project 
